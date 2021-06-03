@@ -1,2 +1,2 @@
 # Gotoubun-Nyaaa
-A level or Geometry Dash
+A level of Geometry Dash
